@@ -15,6 +15,7 @@
   "devDependencies": {
     "@nrwl/js": "15.9.2",
     "@nrwl/remix": "^15.9.6",
+    "@nx-extend/strapi": "^3.5.1",
     "@nx/workspace": "16.0.1",
     "@remix-run/dev": "^1.15.0",
     "@remix-run/eslint-config": "^1.15.0",
