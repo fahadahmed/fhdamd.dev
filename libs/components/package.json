@@ -1,0 +1,15 @@
+{
+  "name": "@fhdamd.dev/components",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./index.mjs",
+      "require": "./index.js"
+    }
+  },
+  "dependencies": {
+    "@stitches/react": "^1.2.8"
+  }
+}
